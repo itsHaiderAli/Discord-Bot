@@ -1,0 +1,7 @@
+discord.py==2.0.0
+python-dotenv==1.0.0
+sqlite3==2.6.0
+
+Application id = 1281034855823704066
+public key = dc306a47882f51f4dc28862d2010b60829df91071c4e149eabd8ac80f3c7a208
+bot token = MTI4MTAzNDg1NTgyMzcwNDA2Ng.GyafXD.NByzXN8rOZUF_uq1b0Rn6QSe7KsRY1M4WaSAnw
